@@ -6,7 +6,7 @@
 .word baseend
 .word 10 ;Line
 .byte $9E ;SYS
-.asc "8192"
+.asc "20480"
 .byte 0
 baseend
 .word 0

@@ -1,4 +1,4 @@
-;Writes uppercase hello world in the verry beginning of the screen.
+;Writes uppercase hello world in the very beginning of the screen.
 .proc write_hello_world
 
 ldx #$00
